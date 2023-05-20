@@ -1,5 +1,5 @@
 # Arrays em C
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/Hotel_LIC/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/C_ArrayProjects/blob/main/LICENSE) 
 
 # Sobre o projeto
 
